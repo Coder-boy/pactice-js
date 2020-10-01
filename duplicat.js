@@ -15,3 +15,10 @@ for (var i = 0; i < num.length; i++ ){
 }
 // console.log(element);
 console.log(uniqNum);
+
+function add(a, b){
+    return a + b;
+}
+var result = add("adam" + "eve")
+console.log(result);
+

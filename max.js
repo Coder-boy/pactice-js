@@ -25,3 +25,4 @@ var sochib1 = 550;
 
 var max = Math.max(business1, minister1, sochib1);
 console.log(max);
+
